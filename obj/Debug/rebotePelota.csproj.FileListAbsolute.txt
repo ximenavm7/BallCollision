@@ -1,0 +1,11 @@
+C:\Users\Ximena VMF\source\repos\rebotePelota\bin\Debug\rebotePelota.exe.config
+C:\Users\Ximena VMF\source\repos\rebotePelota\bin\Debug\rebotePelota.exe
+C:\Users\Ximena VMF\source\repos\rebotePelota\bin\Debug\rebotePelota.pdb
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.csproj.AssemblyReference.cache
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.Form1.resources
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.Properties.Resources.resources
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.csproj.GenerateResource.cache
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.csproj.CoreCompileInputs.cache
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.exe
+C:\Users\Ximena VMF\source\repos\rebotePelota\obj\Debug\rebotePelota.pdb
